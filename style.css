@@ -6,15 +6,16 @@
  *Description: [Assignment Description]
  */
  
-p {
-    property: value;
+body {
+    background-color: #E4D0F9;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #FFFFFF ;
 }
 
 #photo-resize {
     max-width:250px;
 	max-height:300px;
+	border: 2px outset #00FF00
 }
