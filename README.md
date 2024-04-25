@@ -1,2 +1,2 @@
-# webpages
-E115 Repository for HTML Week Assignments
+# Webpages
+E115: Repository for HTML Week Assignments
